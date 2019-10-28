@@ -2,10 +2,12 @@
 Jupyter Notebooks and Python have risen to the top of public focus in the data world over the past decade. But whats the big deal? The material in this repo attempts to answer this question and get you started with Jupyter and Python so you can see what all the buzz is about yourself.
 
 ## TOC
-1. Overview - whats the deal with python and notebooks?
+1. Overview - whats the deal with notebooks?
 2. Python Introduction - Intro to syntax and core concepts
-3. Data Walktrough - use python to do simple data things
-4. Advanced Concepts - look at speed optimizations, cool tricks and handy tips
+3. Data Walkthrough 1 - Common tools
+4. Data Walkthrough 2 - Simple (faulty) ML Example
+5. Jupyter Beyond - A look at some interesting projects in the Jupyter ecosystem
+6. Julia Kernal - An example of different Kernels In Jupyter
 
 
 ## Setup
