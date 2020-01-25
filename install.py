@@ -20,6 +20,8 @@ commands = [
     "pip install pydotplus",
     "conda install -c conda-forge ipyvolume",
     "conda install -c conda-forge ipysheet",
+    "pip install bokeh",
+    "pip install seaborn"
 ]
 
 # execute commands
